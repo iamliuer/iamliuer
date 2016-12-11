@@ -1,0 +1,25 @@
+h1{
+  font-size: 36px;
+  font-family: Hiragino Mincho Pro, Kozuka Gothic Pr6N;
+  font-weight: 600;
+  color: #fac105;
+}
+
+a{
+  color: #000;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  font-size: 36px;
+  font-style:italic;
+  transition-duration: .6s
+}
+
+/* p是段落 */
+p{
+  margin:0 50px 0 100px;
+/* margin-left: 100px; */
+  text-indent: 2em ;
+}
